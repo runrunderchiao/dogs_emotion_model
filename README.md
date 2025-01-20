@@ -9,5 +9,5 @@ Use Python to build and train machine learning model for creating dogs emotion d
 2. Run the main program.
 
 ## developer info
-author：Dana  
+author：Dana Yi
 contact info：mcuking4@gmail.com
