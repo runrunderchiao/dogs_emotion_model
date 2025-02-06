@@ -6,7 +6,12 @@ Use Python to build and train machine learning model for creating dogs emotion d
 
 ## usage
 1. Install the required dependencies.
-2. Run the main program.
+2. Create a LINE Official Account for business.
+3. Link the LINE Official Account to LINE Developer and complete the LINE Bot setup.
+4. Embed the necessary LINE Developer credentials into the code.
+5. Create a new project on a cloud platform such as GCP.
+6. Package the folder and code using Docker.
+7. Upload the packaged code to the cloud platform.
 
 ## developer info
 author：Dana Yi
